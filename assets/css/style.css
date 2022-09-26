@@ -7,13 +7,20 @@ header{
     height: 150px;
     background-image: linear-gradient(to top right, rgba(0, 0, 0, 0.589) 0%, rgba(204, 204, 204, 0.671) 100%);
 }
+header img{
+    height: 150px;
+    width: 120px;
+    position:absolute;
+}
 
 h1{
     text-align: center;
     font-size: 75px;
 }
 header ul{
-    margin-top: 40px;
+    color: black;
+    font-size: 25px;
+    margin-top: 30px;
     text-align: right;
 }
 
