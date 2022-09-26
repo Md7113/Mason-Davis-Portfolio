@@ -18,9 +18,10 @@ h1{
     font-size: 75px;
 }
 header ul{
+    position: relative;
+
     color: black;
     font-size: 25px;
-    margin-top: 30px;
     text-align: right;
 }
 
@@ -119,4 +120,23 @@ footer ul {
 footer ul li{
     margin-right: 20px;
     font-size: 25px;
+}
+
+@media screen and (max-width:744px){
+    header{
+        height: 200px;
+    }
+
+    .card{
+        width: 51%;
+        height: 200px;
+    }
+
+    #css-snip{
+        height: 250px;
+    }
+    footer ul li{
+        font-size: 15px;
+    }
+
 }
