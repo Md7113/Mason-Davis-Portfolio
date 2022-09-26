@@ -76,8 +76,15 @@ main{
     font-size: 30px;
     text-align: center;
 }
-
-.content img{
+.content a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 15px;
+    height: 90%;
+    width: 95%;
+}
+.content a img{
     border-radius: 15px;
     height: 90%;
     width: 95%;
