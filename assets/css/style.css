@@ -122,7 +122,8 @@ footer ul li{
     font-size: 25px;
 }
 
-@media screen and (max-width:744px){
+@media screen and (max-width: 894px){
+    
     header{
         height: 225px;
     }
@@ -135,8 +136,15 @@ footer ul li{
     #css-snip{
         height: 250px;
     }
+
     footer ul li{
         font-size: 15px;
+    }
+
+}
+@media screen and (max-width:982px){
+    h1{
+        margin-left: 150px;
     }
 
 }
