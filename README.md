@@ -4,7 +4,7 @@
 * [Mason Davis's Portfolio](https://md7113.github.io/Mason-Davis-Portfolio/)
 
 ## site picture
-![site](port-pic-1.png)
+![site](Port-pic-1.png)
 ![site](port-pic-2.png)
 
 
